@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WaiApp</string>
+    <string name="question_1">考考你邊個係威頭？ (請點擊正確答案)</string>
+    <string name="wrong_ans">咁簡單都唔識答！</string>
+    <string name="correct_ans">好叻叻啊！</string>
+    <string name="next_stage">挑戰下一關</string>
+    <string name="wai_hungry">我餓了！快d餵我食鍾意ge意，唔係睇住我把交剪！ (拉去我嘴邊啦！)</string>
+    <string name="correct_feed_first">醒目！我仲要！</string>
+    <string name="correct_feed_second">Good ar! 以後跟威哥我搵食！</string>
+    <string name="wrong_feed">你當我羅拔，比屎我食！</string>
+</resources>
