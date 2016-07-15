@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">WaiApp</string>
+    <string name="menu_about">關於製作人員</string>
+    <string name="people">認識更多型男</string>
+
     <string name="question_1">考考你邊個係威頭？ (請點擊正確答案)</string>
     <string name="wrong_ans">咁簡單都唔識答！</string>
     <string name="correct_ans">好叻叻啊！</string>
