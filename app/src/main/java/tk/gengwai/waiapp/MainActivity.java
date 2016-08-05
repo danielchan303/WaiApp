@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.AsyncTask;
-import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -14,7 +13,12 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -24,6 +28,7 @@ import java.io.Reader;
 import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.nio.charset.Charset;
 
 public class MainActivity extends AppCompatActivity {
     @Override
@@ -71,23 +76,26 @@ public class MainActivity extends AppCompatActivity {
         // Will contain the raw JSON response as a string.
         String forecastJsonStr = null;
         @Override
-        protected String doInBackground(Void... params) {
+        protected String doInBackground(Void... params)  {
             try {
                 return downloadUrl();
             } catch (IOException e) {
                 Log.e("PlaceholderFragment", "Error ", e);
+            } catch (JSONException e) {
+                Log.e("JSONException", "Error", e);
             }
             return null;
         }
         @Override
         protected void onPostExecute(String result) {
             super.onPostExecute(result);
-            Log.d("Async Test", result);
+            Log.v("testing", result);
         }
     }
 
-    private String downloadUrl() throws IOException {
-        InputStream is = null;
+    private InputStream is = null;
+    private String downloadUrl() throws IOException, JSONException {
+
         URL url = new URL ("http://www.gengwai.tk/php/vid-action.php");
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         try {
@@ -116,23 +124,26 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // Reads an InputStream and converts it to a String.
-    public String readIt(InputStream stream, int len) throws IOException, UnsupportedEncodingException {
-        Reader reader = null;
-        reader = new InputStreamReader(stream, "UTF-8");
-        char[] buffer = new char[len];
-        reader.read(buffer);
-        return new String(buffer);
+    public String readIt(InputStream stream, int len) throws IOException, JSONException {
+        StringBuffer stringBuffer = new StringBuffer();
+        BufferedReader in = new BufferedReader(new InputStreamReader(is, "UTF-8"));
+        stringBuffer.append(in.readLine());
+        JSONArray result = new JSONArray(stringBuffer.toString());
+        String lastComment = result.getJSONObject(0).getString("datetime");
+        Log.d("lastComment", lastComment);
+        return stringBuffer.toString();
     }
 
+    // Check if the phone is connected to the Internet
     public boolean checkInternetConnected() {
         ConnectivityManager connMgr = (ConnectivityManager)
                 getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
         if (networkInfo != null && networkInfo.isConnected()) {
-            // fetch data
+            Log.v("Network Status", "Connected to the Internet");
             return true;
         } else {
-            // display error
+            Log.v("Network Status", "Connection Error.");
             return false;
         }
     }
@@ -154,10 +165,7 @@ public class MainActivity extends AppCompatActivity {
             case (R.id.aboutAuthor):
                 Toast.makeText(this, "Prouldy created by Daniel Chan", Toast.LENGTH_SHORT).show();
                 if (checkInternetConnected()) {
-                    Log.v("Network Status", "Connected to the Internet");
                     new getComment().execute();
-                } else {
-                    Log.v("Network Status", "Connection Error.");
                 }
                 return true;
             case (R.id.people):
