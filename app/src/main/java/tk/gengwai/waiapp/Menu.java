@@ -9,8 +9,8 @@ import android.widget.Button;
 
 public class Menu extends AppCompatActivity {
 
-    private Button btnMenuQuestion, btnMenuFeed, btnMenuLove, btnMenuAbout;
-    private Intent intentQuestion, intentFeed, intentLove, intentAbout;
+    private Button btnMenuQuestion, btnMenuFeed, btnMenuLove, btnMenuChat, btnMenuAbout;
+    private Intent intentQuestion, intentFeed, intentLove,intentChat, intentAbout;
 
     class intentOnClick implements View.OnClickListener  {
         private Intent intent;
@@ -36,11 +36,13 @@ public class Menu extends AppCompatActivity {
         btnMenuQuestion = (Button) findViewById(R.id.btnMenuQuestion);
         btnMenuFeed = (Button) findViewById(R.id.btnMenuFeed);
         btnMenuLove = (Button) findViewById(R.id.btnMenuLove);
+        btnMenuChat = (Button) findViewById(R.id.btnMenuChat);
 
         // Intent
         intentQuestion = new Intent(context, Question.class);
         intentFeed = new Intent(context, Feed.class);
         intentLove = new Intent(context, Love.class);
+        intentChat = new Intent(context, Chat.class);
 
         // Button OnClick Listener
         btnMenuQuestion.setOnClickListener(new intentOnClick(intentQuestion));
@@ -48,5 +50,7 @@ public class Menu extends AppCompatActivity {
         btnMenuFeed.setOnClickListener(new intentOnClick(intentFeed));
 
         btnMenuLove.setOnClickListener(new intentOnClick(intentLove));
+
+        btnMenuChat.setOnClickListener(new intentOnClick(intentChat));
     }
 }

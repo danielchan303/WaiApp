@@ -5,8 +5,10 @@
     <string name="menu_question">正威無獎問答</string>
     <string name="menu_feed">餵正威</string>
     <string name="menu_love">愛正威</string>
+    <string name="menu_chat">WaiChat</string>
 
     // Question
+    <string name="question_title">無獎問答遊戲</string>
     <string name="question">考考你邊個係威頭？ (請點擊正確答案)</string>
     <string name="wrong_ans">咁簡單都唔識答！</string>
 
