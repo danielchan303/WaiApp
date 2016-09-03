@@ -131,11 +131,11 @@ public class Love extends AppCompatActivity {
                     responseImg.setVisibility(View.VISIBLE);
                     return;
                 } else {
-                    instruction2View.setText(barCodeContent + " 咩黎ga食得ga？");
+                    instruction2View.setText(barCodeContent + R.string.wrong_barcode_response);
                 }
             }
             else {
-                instruction2View.setText("你係咪手震啊？我見唔到bar code wo！");
+                instruction2View.setText(R.string.no_barcode_response);
             }
             camera.startPreview();
 
