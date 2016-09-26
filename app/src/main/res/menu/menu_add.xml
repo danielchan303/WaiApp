@@ -2,8 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:title="Add Chat Room"
-        android:id="@+id/action_add_chat_room"
+        android:title="@string/appbar_add"
+        android:id="@+id/appbar_add_chat_room"
         android:icon="@drawable/ic_add_white_24px"
         app:showAsAction="always"/>
 </menu>

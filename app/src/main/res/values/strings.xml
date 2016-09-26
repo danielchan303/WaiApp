@@ -25,12 +25,24 @@
     <string name="no_barcode_response">你係咪手震啊？我見唔到bar code wo！</string>
 
     // Chat
+    <string name="lastUpdated">最後改動：</string>
+
+    // Chat Dialog
+    <string name="dialog_add_title">新增主題</string>
+    <string name="dialog_hint">請輸入主題名稱</string>
+    <string name="dialog_add">加入</string>
+
+    // Chatroom
     <string name="msg_field_hint">請輸入訊息</string>
     <string name="chat_confirm_btn">送出</string>
     <string name="title_activity_chat_room">ChatRoom</string>
-    
-    // Dialog
-    <string name="dialog_add_title">新增主題</string>
-    <string name="dialog_add">加入</string>
-    <string name="dialog_cancel">取消</string>
+
+    // Menu
+    <string name="appbar_add">新增主題</string>
+    <string name="appbar_edit">編輯</string>
+    <string name="appbar_delete">刪除</string>
+
+    <string name="no_msg">目前沒有任何留言</string>
+    <string name="no_internet">無法連上互聯網</string>
+
 </resources>

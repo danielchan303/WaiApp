@@ -10,9 +10,9 @@ public class ConvertTime {
     private ConvertTime() {
     }
 
-    static String convertTime(Long unixtime) {
+    public static String convertTime(Long unixtime) {
         Date dateObject = new Date(unixtime);
-        SimpleDateFormat dateFormatter = new SimpleDateFormat("dd-MM-yy hh:mmaa");
+        SimpleDateFormat dateFormatter = new SimpleDateFormat("aa hh:mm dd-MM-yy ");
         return dateFormatter.format(dateObject);
     }
 }

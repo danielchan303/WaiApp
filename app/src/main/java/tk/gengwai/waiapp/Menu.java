@@ -2,10 +2,12 @@ package tk.gengwai.waiapp;
 
 import android.content.Context;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+
+import tk.gengwai.waiapp.service.UpdateService;
 
 public class Menu extends AppCompatActivity {
 
@@ -46,11 +48,8 @@ public class Menu extends AppCompatActivity {
 
         // Button OnClick Listener
         btnMenuQuestion.setOnClickListener(new intentOnClick(intentQuestion));
-
         btnMenuFeed.setOnClickListener(new intentOnClick(intentFeed));
-
         btnMenuLove.setOnClickListener(new intentOnClick(intentLove));
-
         btnMenuChat.setOnClickListener(new intentOnClick(intentChat));
     }
 }
