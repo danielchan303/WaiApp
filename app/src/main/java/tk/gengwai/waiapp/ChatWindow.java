@@ -8,11 +8,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -41,7 +39,7 @@ public class ChatWindow extends AppCompatActivity {
 
         noMsgTextView = (TextView) findViewById(R.id.no_msg_text_view);
 
-        // Obtain the chatRoomKey from the Chat.class
+        // Obtain the chatRoomKey from the ChatActivity.class
         Intent intent = getIntent();
         chatRoomKey = intent.getStringExtra(Contract.EXTRA_KEY_CHATROOM);
         String title = intent.getStringExtra(Contract.EXTRA_NAME_CHATROOM);

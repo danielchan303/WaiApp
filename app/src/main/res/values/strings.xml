@@ -41,8 +41,22 @@
     <string name="appbar_add">新增主題</string>
     <string name="appbar_edit">編輯</string>
     <string name="appbar_delete">刪除</string>
+    <string name="appbar_logout">登出</string>
 
     <string name="no_msg">目前沒有任何留言</string>
     <string name="no_internet">無法連上互聯網</string>
+
+    // Login
+    <string name="enter_email">電郵：</string>
+    <string name="enter_nickname">名稱</string>
+    <string name="enter_password">密碼</string>
+    <string name="login">登入</string>
+    <string name="register">註冊</string>
+    <string name="forget_password">忘記密碼</string>
+    <string name="email_invalid">你的電郵格式不正確</string>
+    <string name="incorrect_password">輸入電郵或密碼不正確</string>
+    <string name="email_wrong">你輸入的電郵地址不正確</string>
+    <string name="reset_password">重設密碼電郵已寄出</string>
+    <string name="email_not_verified">請到郵箱點擊鏈結，啟用帳戶</string>
 
 </resources>

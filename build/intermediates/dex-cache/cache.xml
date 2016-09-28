@@ -2,235 +2,328 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_aeceb8323da874393ef4cb025972f3d4d0752a7b.jar" />
+        optimize="true"
+        revision="24.0.1"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.0_ef94a25bcbb2b5501c5c3d8696c6980b208797c1.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_97031755c3f9e1854870294ca347cf4ea34bcd72.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_7188d85d4d90d7eaabdecf8f7401232222ba356d.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_69f903309891357bf68d9d1163dc31c3ab548af2.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_8841ef83eea6c525e0c97ae0719e875b1398a83c.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.5.1\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
+        optimize="true"
+        revision="24.0.1"
         sha1="5ff9ce8d30a3a94e675318b32f887e16e5ed4b51">
         <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.5.1_4e41d839e53eb091db195329b0cb902e10f00e77.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="f7de469ba3b8d6aa6e2f68c7171445025a211beb">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\instant-run_a74f9549c78aaf8482e58f0368dfd30e23f9b125.jar" />
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_626aaede481afd2c68b6ea3e9242b39e08ecae33.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_a54e6ff43f4f39491b704e55927a0fea9b06ced9.jar" />
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_641432a7b12ee636dc1dbf043210b2506d3d3851.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0c2f856b4c76a1e1c26f4970a736b49e7467cea7.jar" />
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b2cc60fa19c15281fe4d805826acf89595a93342.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_57835f0fb0d14a2364ec5e8b83a575a37822e77d.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_405a0325dc36044a6a18739f9c65579d76df1ce5.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7e0b0199418ad813857a78595aa22cc6f158cfd4.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_955e81bf1ef4e8e4490de326d92fc52c9d97af29.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_682a1e25de83328180de9b45b7786dbb5ce2bb2c.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_51f6c04ab30bffda5cb6accd164e7e47d0a23152.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.4.0_1ee987773a9707aa26f24887db5fc086db4dfb78.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_1a1c957eb9dd05dd416b065ec3c0088bc58d6fb3.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_09ab6eb06b0e3d4680e5123949b24cfd8baedee9.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_5ed06822b39ec4e25ef7112bfaf7a6f1edbf623f.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="3b7173b3df4c7029699919414400041f64519e34">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_a40139ac3d801e1c90a3476729cf9238ee8d2bed.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.0\45b426f7796b741035581a176744d91090e2e6fb\jackson-annotations-2.8.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="45b426f7796b741035581a176744d91090e2e6fb">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.8.0_673c4cf87145a4ab2d568c00cabd2432f68ca3b7.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_b58b753e02e3333ff0452d738251739a56784f50.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_525647a78aad2933293f756d101250f58ad56174.jar" />
-    </item>
-    <item
-        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_564c0998b125a1cf1eda2b682e1899e139b590d6.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="96852205e36821384bc1b0698c55334e19d95b3b">
+        optimize="true"
+        revision="24.0.1"
+        sha1="65ba83b10bb55e87f58528573087dbc12fd7ba17">
         <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_46717dc90fd4054c3d605ce38270404c1c17fcf4.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_0a7f19ae6de391d354dc16eaf50a24e2600076da.jar" />
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c9334c53c466ac59031fbfb3128200f9c79a784c.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_c4263a0b5ec9ea6a89e0aa44d7192b4dc0e9411e.jar" />
+        optimize="true"
+        revision="24.0.1"
+        sha1="81ee72a50052ada0d6b2cbe30b338705e0393e36">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\instant-run_a74f9549c78aaf8482e58f0368dfd30e23f9b125.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.4.0_4cc48f1a819db96fd06a3c4c71569acc62b5a8f8.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.8.2\1f12816593c1422be957471c98a80bfbace60fa2\jackson-databind-2.8.2.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="1f12816593c1422be957471c98a80bfbace60fa2">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.8.2_48643ccc7cc8f943dac2cd9786ce837327454cc9.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="670df81539ab71918d49b186598b7eff08ef6563">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_9412a3a30504e58dd59c9197335aad924bc25132.jar" />
-    </item>
-    <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_d2036af52d7ba731eb6ce4e8d77d4e05b34541cf.jar" />
-    </item>
-    <item
+        is-multidex="false"
         jar="C:\Users\danie\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.8.2\80004060cc6f71a027b81e89ef4d74628f824f\jackson-core-2.8.2.jar"
         jumboMode="true"
-        revision="24.0.0"
+        optimize="true"
+        revision="24.0.1"
         sha1="0080004060cc6f71a027b81e89ef4d74628f824f">
         <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\jackson-core-2.8.2_06e272a98ffb1b32aba628112f3d34225405394b.jar" />
     </item>
     <item
-        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
         jumboMode="true"
-        revision="24.0.0"
-        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
-        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_2c2b3ef0719ec288664cba521054217ccdeebfc7.jar" />
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_0dbb43ea5050834c6c74f9d653bb0165d6308434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_f10678094ae8628a5ced7540aa301e2b372ef2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.6.1_09442de16b6994727104d557a6c31e3b217d8064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.0_25d4b290a84279e1d4274b71708aae00680bd89d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d1af716a02d35f2b33275c520b6145447388ae58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a391f9300ddfc4c9295c40d12deccd1495ce2c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_b05ff2388c99156f5062f27de816c0604390f760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.8.2\1f12816593c1422be957471c98a80bfbace60fa2\jackson-databind-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f12816593c1422be957471c98a80bfbace60fa2">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.8.2_48643ccc7cc8f943dac2cd9786ce837327454cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.0_39b86fc70e19e6c3cf12ede742c4a1f00c7e1e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_24a2d7e8df99605a5743e57ea3326dfb3d83e1f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_b4494ddacc0afa2a564d6c7f85f404a1ada593a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.0_1cb3a91ee60d5f557b04b5116fe52c76adf3e4f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.0\45b426f7796b741035581a176744d91090e2e6fb\jackson-annotations-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45b426f7796b741035581a176744d91090e2e6fb">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.8.0_673c4cf87145a4ab2d568c00cabd2432f68ca3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_335788b8d085accb17c866e7858594fccefb966c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f743e3893d18e1dfa97d46f3dc905f3feba93494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_73a2541dd1364de3c521d6be6f3f0ea7f18def0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_a22588fe93fd630d4a957e9bdde97355597682ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_bb789567b521a87f523a6d44518b41956535b14a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.0_901b23cfc9b2aadb711bd6eb021b80deb16988cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_6f3cfa3670b47849eebad94f0a63dea0e19b931a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_aded0c51a28e848ab01ab9b83cae4aa415a4a918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_74fd3804df3c505769042de34ff290b5ed4eeb11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_3d13a7a275436047dcb17325ec4b4170252f1193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_35779e636bcbd116bab7a46820e39ab265a80294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_c28bba848ae110b1eaa32a5b1ec758d6c6948e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b24acb6e28368a18126b8d5acb51610dfb2b3ec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\danie\Documents\Android\WaiApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_5eb5ecb25cda4a5a2e722cf7717248f91d6f13cc.jar" />
     </item>
 
 </items>

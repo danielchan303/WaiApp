@@ -7,9 +7,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
-import android.widget.Toast;
 
-import tk.gengwai.waiapp.Chat;
 import tk.gengwai.waiapp.R;
 
 /**
@@ -30,9 +28,9 @@ public class UpdateService extends IntentService {
                 .setContentTitle("Testing")
                 .setContentText("Testing Notification")
                 .build();
-//        Intent chatIntent = new Intent(this, Chat.class);
+//        Intent chatIntent = new Intent(this, ChatActivity.class);
         NotificationManager mNotificationManager =
                 (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
         mNotificationManager.notify(0, mNotification);
-     }
+    }
 }
